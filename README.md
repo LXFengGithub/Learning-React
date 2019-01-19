@@ -1,2 +1,2 @@
 # Learning-React
-react 入门，
+react 学习，
